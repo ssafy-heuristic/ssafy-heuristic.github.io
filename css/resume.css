@@ -190,3 +190,7 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+li > i.fab{
+  font-size: 80px;
+}
